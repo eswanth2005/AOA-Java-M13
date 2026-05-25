@@ -1,6 +1,10 @@
 
 # EX 3B Rat in Maze- Backtracking 
-## DATE:17-11-2025
+## DATE: 30-04-2026
+
+## NAME: ESWANTH KUMAR K
+## REG NO: 212223040046
+
 ## AIM:
 To write a Java program to for given constraints.
 here is a ball in a maze with empty spaces (represented as 0) and walls (represented as 1). The ball can go through the empty spaces by rolling up, down, left or right, but it won't stop rolling until hitting a wall. When the ball stops, it could choose the next direction.
@@ -40,10 +44,7 @@ Explanation: One possible way is : left -> down -> left -> down -> right -> down
 
 ## Program:
 ```
-/*
-Developed by: M.ARJUN
-Register Number: 212222040012
-*/
+
 import java.util.*;
 
 public class Main {
